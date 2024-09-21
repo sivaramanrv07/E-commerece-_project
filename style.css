@@ -1,0 +1,128 @@
+html{
+    background-color: rgba(243,229,216,255);
+    
+}
+
+body{
+border: 2px solid white;
+border-radius: 20px;
+height: 2400px;
+width: 800px;
+margin: 20px;
+padding: 30px;
+background-color: hsl(0, 0%, 100%);
+margin-left: 550px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image{
+    height: 400px;
+    width: 800px;
+    border-radius: 20px;
+   }
+h1{
+    font-size: 50px;
+    margin: 20px;
+}
+P{
+    font-size: 25px;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.containerpt{
+    background-color: rgba(255,247,252,255);
+    border-radius: 10px;
+    padding: 10px;
+}
+.one{
+    font-size:30px;
+    color:  hsl(332, 51%, 32%);
+    margin: 20px;
+   
+
+}
+ul li{
+    font-size: 25px;
+    margin: 20px;
+    margin-left: 20px;
+}li{
+padding-left: 10px;
+
+}
+
+li::marker{
+    color:hsl(14, 45%, 36%);
+}
+
+
+.two{
+    font-size: 40px;
+    color:hsl(14, 45%, 36%);
+    margin: 20px;
+}
+.three{
+    font-size: 40px;
+    color: hsl(14, 45%, 36%);
+    margin: 20px;
+}
+ol li{
+    font-size: 23px;
+    margin: 20px;
+}
+.four{
+    font-size: 40px;
+    color:hsl(14, 45%, 36%);
+    margin: 20px; 
+}
+.six{
+    font-size: 25px;
+    margin-left: 40px;
+    word-spacing: 200px;  
+
+
+
+}
+.brown{
+    color: brown;
+}
+.seven{
+    font-size: 25px;
+    margin-left: 40px;
+    word-spacing: 230px;
+}
+.eight{
+    font-size: 25px;
+    margin-left: 40px;
+    word-spacing: 210px;
+}
+.nine{
+    font-size: 25px;
+    margin-left: 40px;
+    word-spacing: 250px;
+}
+.container{
+    border: 1px soild white;
+    border-radius: 20px;
+    background-image: linear-gradient(to right,rgb(255, 192, 203),rgb(248, 246, 247));
+    padding: 2px;
+}
+
+
+ @media screen and (min-width:374px) and (max-width: 1440px){
+body{
+    height: 2700px;
+    width: 600px;
+    margin-left:1px;
+    margin: 0px;
+
+}
+.image{
+    width: 600px;
+
+}
+
+
+}
+
+
