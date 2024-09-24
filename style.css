@@ -11,7 +11,7 @@ width: 800px;
 margin: 20px;
 padding: 30px;
 background-color: hsl(0, 0%, 100%);
-margin-left: 550px;
+margin-left: 320px;
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .image{
@@ -112,7 +112,7 @@ ol li{
  @media screen and (min-width:374px) and (max-width: 1440px){
 body{
     height: 2700px;
-    width: 600px;
+    width: 700px;
     margin-left:1px;
     margin: 0px;
 
